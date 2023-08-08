@@ -1,0 +1,7 @@
+hityper
+fastbm25
+jieba
+torch
+timeout_decorator
+openai
+six
